@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Han Zhang
+title                    : Han ZZhang
 title_separator          : "-"
-name                     : &name "Han Zhang"
+name                     : &name "Han ZZhang"
 description              : &description "Masters of Engineering student at UC Berkeley"
 url                      : https://metaxo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
